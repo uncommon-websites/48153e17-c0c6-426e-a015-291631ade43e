@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="/sample.png"
-	generating
+	title="Drive more. Spend less."
+	subtitle="Electric vehicles built to cut operating costs."
+	imageSrc="/generated/image-a-fleet-operations-manager-standing-conf.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://logo.clearbit.com/fedex.com',
+		'https://logo.clearbit.com/ups.com',
+		'https://logo.clearbit.com/dhl.com',
+		'https://logo.clearbit.com/amazon.com'
+	]}
+/>
 
 <Summary
 	generating
