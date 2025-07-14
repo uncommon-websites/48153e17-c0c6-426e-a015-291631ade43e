@@ -26,13 +26,11 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="Planetelectric delivers 70% lighter electric commercial vehicles with 47% lower total cost of ownership through proprietary aerospace-grade composite materials. Our lightweight technology dramatically reduces battery requirements and operating expenses for logistics fleets."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
 			name: "Jane Smith",
@@ -65,24 +63,38 @@
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Why Planetelectric leads the market"
+	subtitle="Breakthrough technology that delivers real results"
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "70% lighter vehicles",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"Proprietary multi-material composite structures reduce vehicle weight by 70%, dramatically cutting battery requirements and operating costs."
 		},
 		{
-			title: "Data Analysis",
+			title: "47% lower total cost of ownership",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"Advanced lightweighting technology delivers guaranteed 47% lower TCO compared to traditional electric commercial vehicles."
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Aerospace-grade materials",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"ISRO-proven composite expertise brings space-grade engineering to commercial vehicles with unmatched durability and performance."
+		},
+		{
+			title: "Pre-certified systems",
+			description:
+				"All sub-systems undergo EMI/EMC certification before integration, ensuring reliable operation and faster deployment."
+		},
+		{
+			title: "Real-time fleet intelligence",
+			description:
+				"Advanced telematics provide real-time range monitoring, remote diagnostics, and predictive health analytics for optimal fleet management."
+		},
+		{
+			title: "Scalable architecture",
+			description:
+				"Modular design supports 4X load capacity with flexible powertrain options, growing with your business needs."
 		}
 	]}
 />
